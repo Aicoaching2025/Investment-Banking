@@ -60,23 +60,28 @@ The project provides two key visualizations:
 
 ---
 
-## Actionable Insights
+Actionable Insights & Recommendations:
 
-Key insights for C-level executives include:
+1. **Historical Financial Health:**  
+   - The company's average monthly burn rate is approximately $475,452.55.
+   - With current cash reserves of $5,000,000, the historical runway is about 10.5 months.
 
-1. **Current Financial Health:**  
-   - The average historical burn rate and corresponding runway are calculated, providing a snapshot of the current cash utilization rate.
+2. **Trend Analysis:**  
+   - The linear regression model indicates that the burn rate is increasing over the past 24 months.
+   - Forecasting suggests an average future burn rate of $814,786.45, projecting a runway of roughly 6.1 months.
 
-2. **Trend Identification:**  
-   - The regression model reveals whether the burn rate is trending upward or downward. An increasing burn rate would signal the need for cost-control measures, while a decreasing trend indicates improving efficiency.
+3. **Strategic Capital Allocation:**  
+   - **Cost Optimization:** Target high-expense areas to reduce burn rate. Initiate cost-reduction strategies where expenses significantly exceed revenue.
+   - **Revenue Enhancement:** Invest in initiatives that drive revenue growth to counterbalance rising expenses.
 
-3. **Capital Allocation Strategy:**  
-   - Focus on optimizing expense areas where the burn rate is highest.
-   - Prioritize investments in initiatives that can boost revenue and mitigate the impact of rising expenses.
+4. **Risk Management & Planning:**  
+   - Plan for additional funding rounds well before cash reserves are depleted.
+   - Continuously monitor the burn rate and update forecasts with new data to adjust strategies in real time.
 
-4. **Risk & Funding Considerations:**  
-   - Based on the forecasted runway, plan for additional funding before cash reserves run low.
-   - Regular monitoring of the burn rate can help adapt strategies in real time.
+5. **Next Steps:**  
+   - Validate these projections with actual financial data as it becomes available.
+   - Consider more advanced forecasting techniques (e.g., time series analysis) for finer granularity.
+   - Integrate this model into a real-time dashboard for continuous financial monitoring.
 
 ---
 
