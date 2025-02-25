@@ -85,11 +85,3 @@ Actionable Insights & Recommendations:
 
 ---
 
-## Getting Started
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/aicoaching2015/financial-projections-runway.git
-   cd financial-projections-runway
-
